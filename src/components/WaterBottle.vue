@@ -17,7 +17,7 @@
 <script setup lang="ts">
 // go to my space
 const goMySpace = () => {
-  window.open('https://www.wekooo.com', '_self');
+  window.open('https://wekooo.com', '_self');
 };
 </script>
 
